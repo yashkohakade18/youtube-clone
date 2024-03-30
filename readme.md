@@ -1,7 +1,7 @@
 # YouTube Clone Design
 
 **WELCOME TO YOUTUBE-CLONE DESIGN:**
-This is a `open-source` project serves as an example for reciept design inspired from the YouTube `YouTube Clone` design and utilised the knowledge provided by `road to code's
+This is a `open-source` project serves as an example for YouTube design inspired from the YouTube `YouTube Clone` design and utilised the knowledge provided by `road to code's
 course`.
 
 whether you are an employee or a normal person youtube serves as an important aspect of any information as it serves itself as `valid proof` of any `information`.This Youtube Design can help you to have a basic idea about how YouTube is designed.
