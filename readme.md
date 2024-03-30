@@ -1,4 +1,4 @@
-# Reciept Design🧾
+# YouTube Clone Design
 
 **WELCOME TO YOUTUBE-CLONE DESIGN:**
 This is a `open-source` project serves as an example for reciept design inspired from the YouTube `YouTube Clone` design and utilised the knowledge provided by `road to code's
